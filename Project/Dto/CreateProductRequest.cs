@@ -1,4 +1,4 @@
-﻿namespace Project.Properties.Dto
+﻿namespace Project.Dto
 {
     public record CreateProductRequest
     {

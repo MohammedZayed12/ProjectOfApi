@@ -1,4 +1,4 @@
-﻿using Project.Properties.Dto;
+﻿using Project.Dto;
 
 namespace Project
 {
